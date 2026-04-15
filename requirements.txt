@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+tensorboard
+numpy==1.23.5
+scipy
+open3d>=0.8
+Pillow
+tqdm
