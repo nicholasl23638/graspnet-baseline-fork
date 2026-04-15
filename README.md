@@ -1,4 +1,5 @@
 # GraspNet Baseline
+NOTE: I DO NOT TAKE OWNERSHIP OF ANY OF THIS. BELOW YOU CAN FIND THE ORIGINAL GITHUB REPO.
 Baseline model for "GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping" (CVPR 2020).
 
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)]
