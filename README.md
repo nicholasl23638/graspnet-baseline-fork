@@ -1,5 +1,8 @@
 # GraspNet Baseline
 NOTE: I DO NOT TAKE OWNERSHIP OF ANY OF THIS. BELOW YOU CAN FIND THE ORIGINAL GITHUB REPO.
+
+Tweaked to support pytorch 2.5.1, updated requirements.txt and other setup to hopefully streamline installation a bit.
+
 Baseline model for "GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping" (CVPR 2020).
 
 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)]
